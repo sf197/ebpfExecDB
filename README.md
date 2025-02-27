@@ -3,7 +3,7 @@
 一款MCP（Model Context Protocol）的Server程序，通过clientAgent中的ebpf程序记录执行的命令，并使用MongoDB存储，最后通过LLM访问DB来判断研判这些命令。
 
 
-![](https://files.mdnice.com/user/93196/827f6945-24a8-4dcd-8262-14dd9dd8276f.png)
+![](images/20250224234922.png)
 
 ### Features
 
