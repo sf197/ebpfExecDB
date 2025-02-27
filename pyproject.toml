@@ -1,0 +1,13 @@
+[project]
+name = "ebpfexecdb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pymongo>=4.11.1",
+    "fastmcp==0.4.1",
+]
+[[project.authors]]
+name = "Wh4am1"
+email = "wh4am1@gmail.com"
